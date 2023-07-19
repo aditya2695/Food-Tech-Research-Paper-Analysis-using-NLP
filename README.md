@@ -6,6 +6,9 @@ Dataset
 
 The dataset used for this analysis consists of approximately 5000 journal articles within the food technology sector. Each article contains metadata including authors, journal, year, and abstract. The abstracts are the main focus of the analysis, as they provide valuable information about the research topics and findings.
 
+### <a href="https://public.tableau.com/app/profile/aditya.a1286/viz/journals_16888616001210/title_wise">View Dashboard</a>
+
+<img src="img/journal_wise.png">
 
 # Techniques Used
 
@@ -33,4 +36,3 @@ This project demonstrates the power of NLP in extracting meaningful information 
 
 For a detailed analysis and interactive visualizations, please refer to the Tableau dashboard associated with this project.
 
-<a href="https://public.tableau.com/app/profile/aditya.a1286/viz/journals_16888616001210/title_wise">View Dashboard</a>
